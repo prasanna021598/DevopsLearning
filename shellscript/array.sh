@@ -2,4 +2,4 @@
 
 MOVIE=("RRR" "SAHO" "Tillu" "Pushpa")
 
-read $MOVIE
+read $MOVIE(1)
