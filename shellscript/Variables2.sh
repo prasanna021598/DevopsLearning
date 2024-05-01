@@ -1,7 +1,7 @@
 #!/bin/bash
 
-Person="me"
-Man="myself"
+Person=$1
+Man=$2
 
 echo "$Person+$Man"
 echo $Person
