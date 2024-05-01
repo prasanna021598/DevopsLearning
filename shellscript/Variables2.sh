@@ -1,6 +1,6 @@
 #!/bin/bash
 
-int i=1
-int j=5
+Person="me"
+Man="myself"
 
-echo "$i+$j"
+echo "$Person+$Man"
